@@ -5,7 +5,7 @@ Download the zip file and unzip it</br>
 
 Go into the Directory</br>
 "გადადით ამოაარქივებულ დირექტორიაში"</br></br>
-$ cd React_portfolio
+$ cd React_portfolio</br>
 
 
 Install project dependencies</br>
