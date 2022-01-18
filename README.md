@@ -1,4 +1,5 @@
-# Installation :
+# Installation : "ინსტალაცია:"
+
 
 $  Go into the repository
 $ cd React_portfolio
