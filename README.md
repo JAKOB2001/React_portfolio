@@ -7,6 +7,7 @@ Go into the Directory</br>
 "გადადით ამოაარქივებულ დირექტორიაში"</br></br>
 $ cd React_portfolio
 
+
 Install project dependencies</br>
 "დააინსტალირეთ npm პაკეტის მენეჯერი JavaScript-ისთვის"</br></br>
 $ npm install
