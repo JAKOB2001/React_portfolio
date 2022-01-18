@@ -12,6 +12,6 @@ $ cd React_portfolio
 "დააინსტალირეთ npm პაკეტის მენეჯერი JavaScript-ისთვის"</br></br>
 $ npm install
 
-Start's development server</br>
+</br>Start's development server</br>
 "გაუშვით npm პაკეტის მენეჯერი"</br></br>
 $ npm start
