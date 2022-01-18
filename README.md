@@ -2,7 +2,7 @@
 
 Download the zip file and unzip it "გადმოწერეთ ზიპ ფაილი და ამოაარქივეთ"
 
-Go into the Directory "გადადით ამოაარქივებულ დირექტორიაში"
+Go into the Directory "გადადით ამოაარქივებულ დირექტორიაში"</br>
 $ cd React_portfolio
 
 Install project dependencies "დააინსტალირეთ npm პაკეტის მენეჯერი JavaScript-ისთვის"
